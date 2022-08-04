@@ -1,0 +1,22 @@
+[MainWindow]
+HDMI-0 Height 1920x1080=1038
+HDMI-0 Width 1920x1080=640
+HDMI-0 XPosition 1920x1080=1280
+HDMI-0 YPosition 1920x1080=42
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAPMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAFgBwAGwAYQB5AFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar playToolBar]
+ToolButtonStyle=IconOnly
+
+[PlaylistShared]
+ColumnOrder=
+ResizeColumnsManually=false
+VisibleColumns=0,1,2,3,4,5,6,7
+
+[Playlists]
+DirectoryList[$e]=$HOME/Music
+ImportPlaylists=true
+showUpcoming=false
