@@ -1,2 +1,11 @@
 [$Version]
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=5
+cropRegion=1440,0,1920,1080
+window-position=50,50
+
+[Save]
+lastSaveAsLocation=file:///home/tom/dots/showoff.png
+lastSaveLocation=file:///home/tom/dots/showoff.png
